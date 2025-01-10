@@ -1,7 +1,6 @@
 
 <h1 align="center">
-  <a href = "https://avatars.githubusercontent.com/u/155063571?v=4" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Malay+Jain!;" />
+    <a href = "https://avatars.githubusercontent.com/u/155063571?v=4" target="_blank"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Malay+Jain!;" />
 </h1>
 <h3 align="center">A passionate Machine Learning developer from India</h3>
 <img align ="Right" src="git.gif" alt="">
