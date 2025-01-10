@@ -76,12 +76,12 @@
   </a>
 </div> -->
 
-<hr>
+<!-- <hr>
  <div align="center">
        <h2>🐍 My Contributions 🐍</h2>
        <br>
        <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MalayJain412/MalayJain412/output/github-contribution-grid-snake.svg" />
-<hr>
+<hr> -->
 
 <!-- <p align="center">
   <b>Thank you for visiting my profile! If you appreciate my work, consider buying me a coffee or tea. 😊</b>
