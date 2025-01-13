@@ -18,7 +18,7 @@
   - 👯 I’m looking to collaborate on **AIML Projects**
 
   - 👨‍💻 All of my projects are available at my <a href="https://malayjain412.github.io/Portfolio/" target="_blank">**Portfolio**
-  </a>
+  </a>  and <a href="https://bio.link/malayjain" target="_blank">**BioLink**</a> 
 
   - 💬 Ask me about **PYTHON , SQL , FLASK , Data Analysis, Data Science**
 
