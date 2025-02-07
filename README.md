@@ -24,7 +24,8 @@
 
   - 📫 How to reach me **malayjain1234@gmail.com**
 
-  - ⚡ Fun fact **I am fast worker!!!**
+  - ⚡ Fun fact **I am quick at getting my job done!!!**
+  
   <hr>
 
 
