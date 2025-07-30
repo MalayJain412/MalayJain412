@@ -55,7 +55,7 @@
       <img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,flask,tensorflow,aws,vscode" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40px" />
       <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="Streamlit" width="100px" />
-      <img src="https://avatars.githubusercontent.com/u/121576135?s=200&v=4" alt="LangChain" width="100px" />
+      <img src="https://i.pinimg.com/736x/50/6a/2f/506a2f4bea269d6c6a4cdd451ac0d89b.jpg" alt="LangChain" width="100px" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40px" /><br>
   </div>
 
