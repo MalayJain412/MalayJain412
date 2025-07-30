@@ -13,7 +13,7 @@
 
   - 🔭 I’m currently working on **My Machine Learning and Artificial Intelligence Skills**
 
-  - 🌱 I’m currently learning **Data Analysis**
+  - 🌱 I’m currently learning **Gen AI**
 
   - 👯 I’m looking to collaborate on **AIML Projects**
 
@@ -80,14 +80,14 @@
     </a>
   </div> -->
 
-  <!-- <hr>
+  <hr>
   <div align="center">
         <h2>🐍 My Contributions 🐍</h2>
         <br>
         <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MalayJain412/MalayJain412/output/github-contribution-grid-snake.svg" />
-  <hr> -->
+  <hr>
 
-  <!-- <p align="center">
+  <p align="center">
     <b>Thank you for visiting my profile! If you appreciate my work, consider buying me a coffee or tea. 😊</b>
   </p>
 
@@ -95,7 +95,7 @@
     <a href="https://buymeacoffee.com/tiwaripunea" target="_blank">
       <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"/>
     </a>
-  </p> -->
+  </p>
 
   <h1 align='center'>⚡️Stay awesome!⚡️</h1>
 
