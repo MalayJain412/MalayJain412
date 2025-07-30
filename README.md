@@ -81,11 +81,20 @@
   </div> -->
 
   <hr>
-  <div align="center">
-        <h2>🐍 My Contributions 🐍</h2>
-        <br>
-        <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MalayJain412/MalayJain412/output/github-contribution-grid-snake.svg" />
-  <hr>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+
+  <!-- SVG (light mode) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MalayJain412/MalayJain412/output/github-snake-dark.svg" />
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/MalayJain412/MalayJain412/output/github-snake.svg" />
+  </picture>
+
+  <!-- Optional: Ocean GIF version -->
+  <!-- <img alt="Snake GIF" src="https://raw.githubusercontent.com/MalayJain412/MalayJain412/output/ocean.gif" /> -->
+</div>
+<hr>
 
   <p align="center">
     <b>Thank you for visiting my profile! If you appreciate my work, consider buying me a coffee or tea. 😊</b>
